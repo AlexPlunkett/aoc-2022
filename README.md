@@ -1,2 +1,3 @@
-# aoc-2022
-Advent of Code '22
+My first foray into the Advent of Code challenge. For this project, I'm using Golang which I'd love to come to grips with more.
+
+Let's rock, baby.
