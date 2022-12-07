@@ -13,8 +13,8 @@ func main() {
 	part1 := scanMarker(input, 4)
 	part2 := scanMarker(input, 14)
 
-	fmt.Printf("\nPart 1: %s", part1)
-	fmt.Printf("\nPart 2: %s", part2)
+	fmt.Printf("\nPart 1: %d", part1)
+	fmt.Printf("\nPart 2: %d", part2)
 }
 
 func scanMarker(buffer string, length int) int {
